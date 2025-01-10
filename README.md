@@ -1,7 +1,7 @@
 ## LESSON_1
 
 В Этом репозитории находятся шаблон дефолтного конфигурационного файла для Nginx. 
-[nginx.conf]
+**[nginx.conf]**
 
 ## LESSON_2
 
@@ -70,3 +70,14 @@ index 4bbe4ab..0000000
 ```
 
 ## LESSON_3
+— Картинка:
+
+![my_test_pictures](images/example.png "inogda ya govotu 'hz', no ya znau...")
+
+— Таблица:  
+
+| №   | Элемент         | Пример              |  
+|-----|------------------|---------------------|  
+| 1   | Заголовок        | `# Example`         |  
+| 2   | Код              | ```python print()```|  
+| 3   | Ссылка           | [empty](https://epmtyresources.empty)|  
