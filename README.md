@@ -11,6 +11,8 @@
 2. [gitlab.wildberries.ru](https://gitlab.wildberries.ru/sokolov.v64/onboarding-vladislav-sokolov)  
 3. [myPublic-gitlab](https://github.com/jonimuesli/Onboarding-Vladislav-Sokolov)  
 
+— Краткое описание выполнения задания с «удаленным файлом»:
+
 ```bash
 git-checkout % git log --oneline
 2864fd9 (HEAD -> master, origin/master, origin/HEAD) Add file nginx.conf
