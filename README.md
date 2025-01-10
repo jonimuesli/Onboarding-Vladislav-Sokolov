@@ -3,7 +3,7 @@
 В Этом репозитории находятся шаблон дефолтного конфигурационного файла для Nginx. 
 [nginx.conf]
 
-- LESSON_2
+— LESSON_2
 
 ```bash
 git-checkout % git log --oneline
