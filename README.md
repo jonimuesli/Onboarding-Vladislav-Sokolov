@@ -1,8 +1,10 @@
 — LESSON_1
-В Этом репозитории находятся шаблон дефолтного конфигурационного файла для Nginx.
+
+В Этом репозитории находятся шаблон дефолтного конфигурационного файла для Nginx. 
 [nginx.conf]
 
 - LESSON_2
+
 ```bash
 git-checkout % git log --oneline
 2864fd9 (HEAD -> master, origin/master, origin/HEAD) Add file nginx.conf
