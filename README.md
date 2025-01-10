@@ -80,4 +80,17 @@ index 4bbe4ab..0000000
 |-----|------------------|---------------------|  
 | 1   | Заголовок        | `# Example`         |  
 | 2   | Код              | ```python print()```|  
-| 3   | Ссылка           | [empty](https://epmtyresources.empty)|  
+| 3   | Ссылка           | [empty](https://epmtyresources.empty)| 
+
+## LESSON_4
+
+— Добавление .gitignor:
+
+``` ## Содержание /tmp которое не попало в репозиторий 🙂
+ls -l
+total 0
+-rw-r--r--  1 vsokolov  staff  0 Jan 10 19:17 passwd.yaml
+-rw-r--r--  1 vsokolov  staff  0 Jan 10 19:16 secret.yaml
+vsokolov@MacBook-Pro-Vladislav tmp % pwd
+/Users/vsokolov/Desktop/WB/git_lab/tmp
+``` 
