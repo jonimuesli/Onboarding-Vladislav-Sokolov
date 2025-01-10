@@ -5,6 +5,12 @@
 
 — LESSON_2
 
+  
+## Ссылки на все репозитории:  
+- [orr-gitlab.wildberries](https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-vladislav-sokolov)  
+- [gitlab.wildberries.ru](https://gitlab.wildberries.ru/sokolov.v64/onboarding-vladislav-sokolov)  
+- [myPublic-gitlab](https://github.com/jonimuesli/Onboarding-Vladislav-Sokolov)  
+
 ```bash
 git-checkout % git log --oneline
 2864fd9 (HEAD -> master, origin/master, origin/HEAD) Add file nginx.conf
