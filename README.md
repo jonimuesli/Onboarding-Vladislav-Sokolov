@@ -1,15 +1,15 @@
-— LESSON_1
+## LESSON_1
 
 В Этом репозитории находятся шаблон дефолтного конфигурационного файла для Nginx. 
 [nginx.conf]
 
-— LESSON_2
+## LESSON_2
 
   
-## Ссылки на все репозитории:  
-- [orr-gitlab.wildberries](https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-vladislav-sokolov)  
-- [gitlab.wildberries.ru](https://gitlab.wildberries.ru/sokolov.v64/onboarding-vladislav-sokolov)  
-- [myPublic-gitlab](https://github.com/jonimuesli/Onboarding-Vladislav-Sokolov)  
+— Ссылки на все репозитории:  
+1. [orr-gitlab.wildberries](https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-vladislav-sokolov)  
+2. [gitlab.wildberries.ru](https://gitlab.wildberries.ru/sokolov.v64/onboarding-vladislav-sokolov)  
+3. [myPublic-gitlab](https://github.com/jonimuesli/Onboarding-Vladislav-Sokolov)  
 
 ```bash
 git-checkout % git log --oneline
@@ -66,3 +66,5 @@ index 4bbe4ab..0000000
 -
 -Так что теперь не отвертишься, придется делать и тестировать бекапы 🙂
 ```
+
+## LESSON_3
