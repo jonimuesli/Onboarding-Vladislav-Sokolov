@@ -72,7 +72,7 @@ index 4bbe4ab..0000000
 ## LESSON_3
 — Картинка:
 
-![my_test_pictures](https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-vladislav-sokolov/-/raw/main/images/exapmle.png "inogda ya govotu 'hz', no ya znau..")
+![my_test_pictures](images/exapmle.png "inogda ya govotu 'hz', no ya znau..")
 
 — Таблица:  
 
