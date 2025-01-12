@@ -123,3 +123,32 @@ client_header_buffer_size 1k;
 — Описание:
 После завершения работы в отдельных ветках обычно все изменения сливают в единую ветку, которую потом используют для обновления кода на серверах.
 
+— Задание:
+Объедините ветку develop с веткой master из предыдущего задания.
+Загрузите изменения на gitlab.
+
+— Шаги:
+```vsokolov@MacBook-Pro-Vladislav git_lab % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+vsokolov@MacBook-Pro-Vladislav git_lab % git branch
+  develop
+  front-new-site
+* main
+vsokolov@MacBook-Pro-Vladislav git_lab % git merge develop
+Updating 3a4bba1..a42ae08
+Fast-forward
+ nginx.conf | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+vsokolov@MacBook-Pro-Vladislav git_lab % git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md.back
+
+nothing added to commit but untracked files present (use "git add" to track)
+git push origin main
+```
