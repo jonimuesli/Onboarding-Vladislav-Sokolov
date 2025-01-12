@@ -74,7 +74,7 @@ _В данном уроке требуется «опробовать» разн
 
 — Картинка:
 
-![my_test_pictures](images/exapmle.png "inogda ya govotu 'hz', no ya znau..")
+![my_test_pictures](images/zzz.jpg "inogda ya govotu 'hz', no ya znau..")
 
 — Таблица:  
 
