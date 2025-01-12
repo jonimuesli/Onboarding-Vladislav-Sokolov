@@ -117,6 +117,7 @@ git branch
 client_body_buffer_size 16k; 
 client_header_buffer_size 1k;
 ```
+Итоговый [nginx.conf](./nginx.conf) со всеми изменениями.
 
 ## LESSON_6
 
