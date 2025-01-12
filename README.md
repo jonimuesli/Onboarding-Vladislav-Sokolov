@@ -168,3 +168,18 @@ _Полезная команда:_
 
 ![lesson_7](images/lesson_7.png "lesson_7_pictures_yes_hehehehehehehehhe")
 
+## LESSON_8
+
+— Скриншот выполнения задания:
+
+![lesson_8_1](images/lesson_8_1.png "lesson_7_pictures_yes_heehhehehehehehe")
+
+
+![lesson_8_2](images/lesson_8_2.png "lesson_7_pictures_yes_heehhehehehehehe")
+
+
+
+
+
+
+
