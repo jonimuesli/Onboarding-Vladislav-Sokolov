@@ -75,6 +75,8 @@ _В данном уроке требуется «опробовать» разн
 — Картинка:
 
 ![my_test_pictures](images/zzz.jpg "inogda ya govotu 'hz', no ya znau..")
+<img src="./images/zzz.jpg" alt="sshproger" width="800" height="400">
+
 
 — Таблица:  
 
