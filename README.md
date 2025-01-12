@@ -110,12 +110,14 @@ git branch
   front-new-site
   main
 
-### В ветке develop меняем настройки в nginx.conf: worker_connections на 16384 и коммитим изменения
+### В ветке develop меняем настройки в nginx.conf: 
+
++ worker_connections 16384; 
 
 ### В ветке front-new-site добавляем в файл nginx.conf:
 
-client_body_buffer_size 16k; 
-client_header_buffer_size 1k;
++ client_body_buffer_size 16k; 
++ client_header_buffer_size 1k;
 ```
 Итоговый [nginx.conf](./nginx.conf) со всеми изменениями.
 
