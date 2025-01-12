@@ -172,10 +172,11 @@ _Полезная команда:_
 
 — Скриншот выполнения задания:
 
-![lesson_8_1](images/lesson_8_1.png "lesson_7_pictures_yes_heehhehehehehehe")
+Переместите коммиты из ветки feature в ветку develop с помощью rebase
+![lesson_8_1](images/lesson_8_1.png "lesson_8_pictures_yes_heehhehehehehehe")
 
-
-![lesson_8_2](images/lesson_8_2.png "lesson_7_pictures_yes_heehhehehehehehe")
+Переместите коммиты из ветки develop в ветку master с помощью rebase
+![lesson_8_2](images/lesson_8_2.png "lesson_8_pictures_yes_heehhehehehehehe")
 
 
 
