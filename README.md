@@ -152,3 +152,9 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 git push origin main
 ```
+
+## LESSON_7
+
+— Скриншот выполнения задания:
+![lesson_7](images/lesson_7.png "lesson_7_pictures_yes_hehehehehehehehhe")
+
