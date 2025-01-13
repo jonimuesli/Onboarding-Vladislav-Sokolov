@@ -225,7 +225,25 @@ vsokolov@MacBook-Pro-Vladislav git-cherry-pick % git cherry-pick --continue
 
 ## 🚀LESSON_10
 
+— Скриншот выполнения задания:
 
+![lesson_10](images/lesson_10.png "lesson_10_pictures_yes_hehehehehehehehhe")
+![lesson_10](images/lesson_10_1.png "lesson_10_1_pictures_yes_hehehehehehehehhe")
 
-
+— На память себе оставлю, а то что-то мучался я с этим «лессоном» непозволительно долго!
+```
+git push origin develop --force
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 3.23 KiB | 3.23 MiB/s, done.
+Total 4 (delta 0), reused 2 (delta 0), pack-reused 0
+remote: 
+remote: To create a merge request for develop, visit:
+remote:   https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-devops-task-force-vladislav/-/merge_requests/new?merge_request%5Bsource_branch%5D=develop
+remote: 
+To https://orr-gitlab.wildberries.ru/orr-onboarding/onboarding-devops-task-force-vladislav.git
+ + f3b129a...c013b3f develop -> develop (forced update) 😭
+```
 
