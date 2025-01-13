@@ -185,7 +185,9 @@ _Полезная команда:_
 ## 🍒LESSON_9
 
 — Основные шаги:
-```git cherry-pick 17938b2
+
+```
+git cherry-pick 17938b2
 Auto-merging main.go
 CONFLICT (content): Merge conflict in main.go
 error: could not apply 17938b2... Formatted code
