@@ -184,6 +184,42 @@ _Полезная команда:_
 
 ## 🍒LESSON_9
 
+— Основные шаги:
+```git cherry-pick 17938b2
+Auto-merging main.go
+CONFLICT (content): Merge conflict in main.go
+error: could not apply 17938b2... Formatted code
+hint: After resolving the conflicts, mark them with
+hint: "git add/rm <pathspec>", then run
+hint: "git cherry-pick --continue".
+hint: You can instead skip this commit with "git cherry-pick --skip".
+hint: To abort and get back to the state before "git cherry-pick",
+hint: run "git cherry-pick --abort".
+
+git-cherry-pick % git checkout 17938b2 -- main.go   
+vsokolov@MacBook-Pro-Vladislav git-cherry-pick % git status                     
+On branch master
+Your branch is up to date with 'origin/master'.
+
+You are currently cherry-picking commit 17938b2.
+  (all conflicts fixed: run "git cherry-pick --continue")
+  (use "git cherry-pick --skip" to skip this patch)
+  (use "git cherry-pick --abort" to cancel the cherry-pick operation)
+
+Changes to be committed:
+        modified:   main.go
+
+vsokolov@MacBook-Pro-Vladislav git-cherry-pick % git cherry-pick --continue
+
+[master d6116c2] Formatted code
+ Author: ilin.leonid2 <ilin.leonid2@wb.ru>
+ Date: Thu Apr 25 18:04:15 2024 +0000
+ 1 file changed, 10 deletions(-)
+```
+
+— Скриншот выполнения задания:
+
+![lesson_9](images/lesson_9.png "lesson_9_pictures_yes_hehehehehehehehhe")
 
 ## 🚀LESSON_10
 
